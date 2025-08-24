@@ -1,0 +1,20 @@
+{
+    "111": {
+        "id": "111",
+        "nombre": "lapiz",
+        "cantidad": 6,
+        "precio": 1.5
+    },
+    "222": {
+        "id": "222",
+        "nombre": "celular",
+        "cantidad": 1,
+        "precio": 180.0
+    },
+    "333": {
+        "id": "333",
+        "nombre": "cargador",
+        "cantidad": 2,
+        "precio": 25.0
+    }
+}
